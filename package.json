@@ -1,12 +1,12 @@
 {
-  "name": "nome-do-bot",
+  "name": "botpelle",
   "version": "1.0.0",
-  "description": "Descrição do bot",
-  "main": "main.js",  // O arquivo principal que contém o código do bot
+  "description": "bot telegram",
+  "main": "main.js", 
   "scripts": {
-    "start": "node main.js"  // O comando para iniciar o bot
+    "start": "node main.js"  
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.64.0"  // A dependência para a biblioteca do Telegram Bot API
+    "node-telegram-bot-api": "^0.64.0"  
   }
 }
