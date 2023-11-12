@@ -12,6 +12,9 @@
         "node-telegram-bot-api": "^0.64.0"
       }
     },
+"scripts": {
+  "start": "node main.js"
+},
     "node_modules/@cypress/request": {
       "version": "3.0.1",
       "resolved": "https://registry.npmjs.org/@cypress/request/-/request-3.0.1.tgz",
