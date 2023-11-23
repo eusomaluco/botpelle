@@ -6,8 +6,8 @@ const chatId = '-4020413190'; // id do chat ou do grupo, sempre vai ser negativo
 // não mexer
 
 const mensagensEnviadas = [];
-const intervaloPosts = (Math.floor(Math.random() * 31) + 15) * 60 * 1000;
-const intervaloResumo = 60000 * 60;
+const intervaloPosts = 3000;//(Math.floor(Math.random() * 31) + 15) * 60 * 1000;
+const intervaloResumo = 10000;//60000 * 60;
 const agora = new Date();
 
 const linkAfiliado = 'https://www.exemplo.com';
